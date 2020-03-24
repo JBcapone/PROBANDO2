@@ -1,0 +1,22 @@
+<html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Download</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+<center>
+	<div id="ocultar">
+	<a href="#">
+	<img style="width: 400px;height: 200px;" src="https://scontent.fblr1-4.fna.fbcdn.net/v/t1.0-9/76250679_105273337587286_1368430074323271680_n.jpg?_nc_cat=101&_nc_sid=dd9801&_nc_ohc=q-e207UdCNQAX9inbxi&_nc_ht=scontent.fblr1-4.fna&oh=d53ede3dad7c75013994b21610a17817&oe=5E92A808" alt=""></a>
+	</div>
+</center>
+<script>
+if (screen.width<=1080) {
+  window.location="https://bit.ly/2UdEjzL";
+}
+</script>
+</body>
+</html>
